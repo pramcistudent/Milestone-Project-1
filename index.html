@@ -186,41 +186,41 @@
         </div>
     </div>    
     <!-- Tour Container -->
-    <div class="row">
-        <div class="container-fluid tour-container bg-color-band" id="tour-container">
-            <h2 class="heading-uppercase">Tour Dates</h2>
-            <div class="row">
-                <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
-                    <div class="thumbnail">
-                        <img src="images/london.jpg" alt="London">
-                        <p><strong>London</strong></p>
-                        <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
-                    </div>
+    
+    <div class="container-fluid tour-container bg-color-band" id="tour-container">
+        <h2 class="heading-uppercase">Tour Dates</h2>
+        <div class="row">
+            <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <img src="images/london.jpg" alt="London">
+                    <p><strong>London</strong></p>
+                    <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
                 </div>
-                <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
-                    <div class="thumbnail">
-                        <img src="images/newyork.jpg" alt="New York">
-                        <p><strong>New York</strong></p>
-                        <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
-                    </div>
+            </div>
+            <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <img src="images/newyork.jpg" alt="New York">
+                    <p><strong>New York</strong></p>
+                    <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
                 </div>
-                <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
-                    <div class="thumbnail">
-                        <img src="images/australia.jpg" alt="Australia">
-                        <p><strong>Australia</strong></p>
-                        <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
-                    </div>
+            </div>
+            <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <img src="images/australia.jpg" alt="Australia">
+                    <p><strong>Australia</strong></p>
+                    <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
                 </div>
-                <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
-                    <div class="thumbnail">
-                        <img src="images/paris.jpg" alt="Paris">
-                        <p><strong>Paris</strong></p>
-                        <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
-                    </div>
+            </div>
+            <div class="col-xs-12 col-xs-offset-0 col-sm-offset-0 col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <img src="images/paris.jpg" alt="Paris">
+                    <p><strong>Paris</strong></p>
+                    <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#viewticketsmodal">View Tickets</button>
                 </div>
             </div>
         </div>
-    </div>    
+    </div>
+        
     <!-- Contact Container -->
     <div class="row">
         <div class="container-fluid contact-container" id="contact-container">
@@ -230,25 +230,25 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-10 col-xs-offset-1 col-md-offset-3 col-md-6 contact-form" id="contact">
+                <div class="col-xs-10 col-xs-offset-1 col-md-offset-3 col-md-6" id="subscribe">
                     <h3 class="heading-uppercase1">Sign up to the Newsletter</h3>
                     <p class="contact-us">Enter your email below and subcribe to hear about new releases, upcoming events and more.</p>
                     <div class="alert alert-success" role="alert">
                         <form class="form-horizontal">
-                            <input type="email" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required />
+                            <input type="email" name="emailaddress" class="form-control" id="subscribe-emailaddress" placeholder="Email" required />
                             <button type="submit" class="submit-button btn btn-success">Subscribe</button>
                         </form>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-10 col-xs-offset-1 col-md-offset-3 col-md-6 contact-form" id="contact">
+                <div class="col-xs-10 col-xs-offset-1 col-md-offset-3 col-md-6" id="contact-us">
                     <h3 class="heading-uppercase1 events-heading">Available For Private Hire</h3>
                     <p class="contact-us">The band has over 50 years’ experience and can perform at special events such as Weddings, Christmas parties etc. To make an enquiry complete the form below with a brief description and hit that Submit!</p>
                     <div class="alert alert-success" role="alert">
                         <form class="form-horizontal">
                             <input type="text" name="yourname" class="form-control" id="yourname" placeholder="Your Name" required />
-                            <input type="email" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required />
+                            <input type="email" name="emailaddress" class="form-control" id="contact-us-emailaddress" placeholder="Email" required />
                             <textarea rows="4" name="commnets" class="form-control" id="comments" placeholder="Please give details of your reason for contacting us, including type of event, date and location." required></textarea>
                             <button type="submit" class="submit-button btn btn-success">Submit</button>
                         </form>
@@ -258,24 +258,26 @@
         </div>
     </div>    
     <!-- View Tickets Modal -->
-    <div class="row">
-        <div class="modal fade" id="viewticketsmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="myModalLabel">Tour Tickets</h4>
-                    </div>
-                    <div class="modal-body">
-                        View and buy tickets.<p>Coming Soon!</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
+    
+    <div class="modal fade" id="viewticketsmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Tour Tickets</h4>
+                </div>
+                <div class="modal-body">
+                    View and buy tickets.<br>Coming Soon!
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
-    </div>    
+    </div>
+        
     <!---footer-->
     <footer class="container container-fluid footer">
         <div class="row">
