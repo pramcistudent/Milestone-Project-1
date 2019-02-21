@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Acme 100, 200, 300, 400, 500, 600, 700, 800, 900');
 
+/*--------------------------------------------------general styles-----*/
+
 html {
   scroll-behavior: smooth;
 }
@@ -33,7 +35,8 @@ body {
   -webkit-text-stroke: .01px #f7fb67;
 }
 
-/*-----navbar--*/
+/*--------------------------------------------------navbar styles-----*/
+
 .navbar {
   width: 100%;
   margin-bottom: 0;
@@ -62,9 +65,12 @@ body {
 	color: #edff00;
 }
 
-/*-----the carousel--*/
+/*--------------------------------------------------carousel styles-----*/
 
-/*-----the band--*/
+
+
+/*--------------------------------------------------the band styles-----*/
+
 .band-container {
   height: 100%;
 	width: 100%;
@@ -142,7 +148,8 @@ body {
   height: 16rem;
 }
 
-/*-----music--*/
+/*--------------------------------------------------music styles-----*/
+
 .music-container {
   height: 100%;
 	width: 100%;
@@ -184,7 +191,8 @@ audio {
   font-family: "Acme", sans-serif;
 }
 
-/*-----tour dates--*/
+/*--------------------------------------------------tour dates styles-----*/
+
 .tour-container {
 	height: 100%;
 	width: 100%;
@@ -226,7 +234,7 @@ audio {
   color: #000;
 }
 
-/*-----contact--*/
+/*--------------------------------------------------contact-----*/
 
 .contact-container {
   height: 100%;
@@ -262,7 +270,8 @@ audio {
 	margin: auto;
 }
 
-/*-----footer--*/
+/*--------------------------------------------------footer-----*/
+
 .footer {
   width: 100%;
 	text-align: center;
@@ -301,7 +310,7 @@ audio {
 }
 
 
-/*-----------------------------------Media Queries*/
+/*--------------------------------------------------media queries styles-----*/
 
 @media screen and (min-width: 768px) {
   .music-container,
