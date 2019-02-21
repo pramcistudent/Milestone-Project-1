@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Acme 100, 200, 300, 400, 500, 600, 700, 800, 900');
+@import url('https://fonts.googleapis.com/css?family=Acme 400, 600, 900');
 
 /*--------------------------------------------------general styles-----*/
 
@@ -36,6 +36,8 @@ body {
 }
 
 /*--------------------------------------------------navbar styles-----*/
+
+
 
 .navbar {
   width: 100%;
@@ -341,11 +343,20 @@ audio {
 
 @media screen and (min-width: 768px) {
   .music-container,
-  .contact-container {
+  .contact-container,
+  .music-container-album {
 		background: url('../images/drum1.jpg') no-repeat center center fixed;
 	}
+	.heading-uppercase {
+    padding: 80px 0 30px;
+  }
 	.heading-uppercase1 {
     font-size: 25px;
+  }
+  .person {
+    margin: 40px;
+    max-width: 70%;
+    height: 200px;
   }
   .contact-us {
     font-size: 16px;
@@ -356,7 +367,8 @@ audio {
 }
 @media screen and (min-width: 992px) {
 	.music-container,
-	.contact-container {
+	.contact-container,
+	.music-container-album {
 		background: url('../images/drum.jpg') no-repeat center center fixed;
 	}
 }
