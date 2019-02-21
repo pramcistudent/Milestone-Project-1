@@ -158,6 +158,10 @@ body {
 	justify-content: center;
 	position: relative;
 }
+.music-container {
+  padding: 50px 10px;
+}
+
 #video-col {
   background-color: #f7fb67;
   padding: 0 50px;
@@ -268,7 +272,7 @@ audio {
   -webkit-text-stroke: .01px #f7fb67;
 }
 .contact-container {
-  padding: 10px 10px;
+  padding: 50px 10px;
 }
 .col {
   max-width: 1000px
