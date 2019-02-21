@@ -282,6 +282,9 @@ audio {
 	display: block;
 	margin: auto;
 }
+.form-control {
+  margin: 10px 0;
+}
 
 /*--------------------------------------------------footer-----*/
 
