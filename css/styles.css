@@ -158,10 +158,24 @@ body {
 	justify-content: center;
 	position: relative;
 }
+.music-container-album {
+  height: 100%;
+	width: 100%;
+  background: url('..images/drum.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
 .music-container {
   padding: 50px 10px;
 }
-
+.music-container-album {
+  padding: 0 10px 50px;
+}
 #video-col {
   background-color: #f7fb67;
   padding: 0 50px;
@@ -173,8 +187,17 @@ video {
 }
 .song-title {
 	text-align: center;
-	margin: 2rem auto 5px;
+	font-family: "Acme", sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  color: #ff0000;
+  -webkit-text-stroke: .01px #f7fb67;
+	margin: 5px auto 0;
 }
+.music {
+  background-color: #f7fb67;
+}
+
 .music img {
   display: block;
   margin: 20px auto;
@@ -184,15 +207,6 @@ audio {
 	display: block;
 	margin: 0 auto;
 	width: 70%;
-}
-.album-cover {
-  border: 10px solid transparent;
-  margin-bottom: 25px;
-}
-.album-cover:hover {
-  border-color: #f5afa6;
-  font-size: 16px;
-  font-family: "Acme", sans-serif;
 }
 
 /*--------------------------------------------------tour dates styles-----*/
@@ -285,7 +299,6 @@ audio {
 .form-control {
   margin: 10px 0;
 }
-
 /*--------------------------------------------------footer-----*/
 
 .footer {
