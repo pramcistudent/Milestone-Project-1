@@ -231,9 +231,11 @@ audio {
   padding-top: 10px;
 }
 .btn {
+  font-family: "Acme", sans-serif;
+  font-weight: 900;
   padding: 10px 20px;
   background-color: #333;
-  color: #f1f1f1;
+  color: #f5afa6;
   border-radius: 0;
   transition: .4s;
 }
@@ -283,6 +285,10 @@ audio {
   max-width: 1000px
 }
 .submit-button {
+  font-family: "Acme", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  color: #f5afa6;
 	font-size: 15px;
 	display: block;
 	margin: auto;
