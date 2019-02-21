@@ -215,20 +215,21 @@ audio {
 }
 
 .thumbnail {
-  padding: 15px;
+  padding: 10px;
   border: none;
   border-radius: 0;
   text-align: center;
-  font-size: 16px;
+  font-size: 22px;
   font-family: "Acme", sans-serif;
 }
 .thumbnail p {
-  margin-top: 15px;
-  color: #555;
+  margin-top: 10px;
+  color: #ff0000;
+  -webkit-text-stroke: .01px #f7fb67;
 }
 .thumbnail img {
   max-width: 80%;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 .btn {
   font-family: "Acme", sans-serif;
@@ -287,7 +288,7 @@ audio {
 .submit-button {
   font-family: "Acme", sans-serif;
   font-weight: 900;
-  font-size: 30px;
+  font-size: 20px;
   color: #f5afa6;
 	font-size: 15px;
 	display: block;
