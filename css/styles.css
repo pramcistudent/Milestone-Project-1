@@ -158,6 +158,10 @@ body {
 	justify-content: center;
 	position: relative;
 }
+#video-col {
+  background-color: #f7fb67;
+  padding: 0 50px;
+}
 video {
 	display: block;
 	margin: 20px auto 50px;
