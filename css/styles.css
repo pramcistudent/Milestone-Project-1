@@ -248,6 +248,15 @@ audio {
 	justify-content: center;
 	position: relative;
 }
+#title {
+  background-color: #f7fb67;
+}
+#subscribe {
+  background-color: #f7fb67;
+}
+#contact-us {
+  background-color: #f7fb67;
+}
 .contact-us {
   text-align: center;
   font-family: "Acme", sans-serif;
