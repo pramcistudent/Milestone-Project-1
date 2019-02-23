@@ -58,12 +58,20 @@ And for fans and potential fans to contact the band to make enquiries about thei
 I originally created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
 So, I choose to switch to a simpler form and used PowerPoint to create and style my wireframes.
 
+<<<<<<< HEAD
 ###### Home
+=======
+Home
+>>>>>>> 85ddb372d733a392b7c4b42e12073f35e4253881
 
 The home page should have a navigation bar for quick easy access to any part of the site.
 Main body of the home page to have a full width image possibly a carousel with multi slide images.
 
+<<<<<<< HEAD
 ###### The Band
+=======
+Band
+>>>>>>> 85ddb372d733a392b7c4b42e12073f35e4253881
 
 Images of each band member with some additional information their name and the instruments they play.
 Additional group images of the band.
@@ -82,7 +90,11 @@ Images of city's were the band are scheduled to play concert.
 Sign up section to band news letter 
 available for private hire
 
+<<<<<<< HEAD
 ###### Footer
+=======
+##### Footer
+>>>>>>> 85ddb372d733a392b7c4b42e12073f35e4253881
 
 Band social links.
 
