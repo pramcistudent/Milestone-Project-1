@@ -59,6 +59,7 @@ I oringanlly created my wireframes in Balsamiq however I found this to be a litt
 So I choose to switch to a more simpler form and used powerpoint to create and style my wireframes.
 
 ##### Home
+![home](https://user-images.githubusercontent.com/45182424/53291403-8a8d6100-37aa-11e9-95ac-fbd08f502122.JPG)
 
 The home page should have a navigation bar for quick easy access to any part of the site.
 Main body of the home page to have a full width image possibly a carousel with multi slide images.
