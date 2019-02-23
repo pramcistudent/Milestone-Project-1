@@ -58,32 +58,31 @@ And for fans and potential fans to contact the band to make enquiries about ther
 I oringanlly created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
 So I choose to switch to a more simpler form and used powerpoint to create and style my wireframes.
 
-* Home
-![Home Page](/wirefames/home.JPG/)
+##### Home
+
 The home page should have a navigation bar for quick easy access to any part of the site.
 Main body of the home page to have a full width image possibly a carousel with multi slide images.
 
-* The Band
+#####The Band
 
 Images of each band member with some additional information their name and the instruments they play.
 Additional group images of the band.
 
-* Music
+#####Music
 
 Embedded band music video centre of page.
 Band album images with audio play list.
 
-* Tour
+#####Tour
 
 Images of city's were the band are scheduled to play concert.
 
-* Contact Us
+#####Contact Us
 
 Sign up section to band news letter 
 available for private hire
 
-* Footer
-
+Footer
 Band social links.
 
 ### The Surface Plane
