@@ -9,9 +9,9 @@ The project was to create a website targeted to fans who would come to the site 
 ## UX
 The website was designed and created to be focused towards the band’s fan base and potential fans. 
 I have used bright fun colours throughout the site to create typography and to visually appeal to the user.
-The colour, style and theme were created to reflect the persona of the band as found on the bands offical site [The Monkees](https://www.monkees.com/).
-The business requirements are to create a website that is easy to use and allows for sign up's. 
-And for fans and potential fans to contact the band to make enquiries about there availability to perform at special events.
+The colour, style and theme were created to reflect the persona of the band as found on the bands official site [The Monkees](https://www.monkees.com/).
+The business requirements are to create a website that is easy to use and allows for sign ups. 
+And for fans and potential fans to contact the band to make enquiries about their availability to perform at special events.
 
 ## The Five Planes
 
@@ -20,7 +20,7 @@ And for fans and potential fans to contact the band to make enquiries about ther
 **Site Objectives**
 * A website targeted to the band’s fans and potential fans.
 * An easy to navigate website that showcases the band’s music.
-* A sign-up section to stay upto date with new content releases and an option to contact the band.
+* A sign-up section to stay up to date with new content releases and an option to contact the band.
 
 **User Stories**
 * As a fan I would like to visit the site to view images of the band and to listen to their music.
@@ -38,25 +38,25 @@ And for fans and potential fans to contact the band to make enquiries about ther
 
 **Content Requirements**
 * Images of the band and band members.
-* Media and audio music files from the bands playlist.
+* Media and audio music files from the band's playlist.
 * Information about the band and their services.
 
-### The Struture Plane
+### The Structure Plane
 
 **Interaction Design** 
-* Navigationbar links to each section of the site for quick and easy user access.
+* Navigation bar links to each section of the site for quick and easy user access.
 * Easy to read font and colour theme across all sections.
-* Possibly add call to action above navbar to inform user that the band can preform at private events.
+* Possibly add call to action above navbar to inform user that the band can perform at private events.
 
-**Information Architechture**
+**Information Architecture**
 * Single scroll website from home page through to the band, their music, their tour dates, and contact information.
-* Possibly add a news artical section for latest news from the band.
+* Possibly add a news article section for latest news from the band.
 
 ### The Skeleton Plane
 
 #### Wireframes & Features
-I oringanlly created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
-So I choose to switch to a more simpler form and used powerpoint to create and style my wireframes.
+I originally created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
+So, I choose to switch to a more simpler form and used PowerPoint to create and style my wireframes.
 
 ##### Home
 
@@ -82,7 +82,7 @@ Images of city's were the band are scheduled to play concert.
 Sign up section to band news letter 
 available for private hire
 
-#####Footer
+##### Footer
 
 Band social links.
 
@@ -92,7 +92,7 @@ Band social links.
 * Bright fun colours to be used across the site, yellow as the base colour for the site and google fonts "Acme". 
 * Colour theme to be kept simple no more than 3-4 colours to be used across all sections.
 * Full width home page image with call to action above navbar.
-* Fixed backgound image taken from the bands image library.
+* Fixed background image taken from the bands image library.
 
 
 --------------------------------------------------
