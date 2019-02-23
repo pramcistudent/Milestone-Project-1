@@ -58,13 +58,12 @@ And for fans and potential fans to contact the band to make enquiries about ther
 I oringanlly created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
 So I choose to switch to a more simpler form and used powerpoint to create and style my wireframes.
 
-##### Home
 ![home](https://user-images.githubusercontent.com/45182424/53291403-8a8d6100-37aa-11e9-95ac-fbd08f502122.JPG)
 
 The home page should have a navigation bar for quick easy access to any part of the site.
 Main body of the home page to have a full width image possibly a carousel with multi slide images.
 
-##### The Band
+![band](https://user-images.githubusercontent.com/45182424/53291576-4c457100-37ad-11e9-8513-1c1af9a34238.JPG)
 
 Images of each band member with some additional information their name and the instruments they play.
 Additional group images of the band.
