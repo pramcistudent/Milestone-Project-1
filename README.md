@@ -102,6 +102,7 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 * Add call to action above navbar.
 * Add missing audio files for the album section, currently only 2 of the audio files are linked to the correct music. 
 * Update the view tickets modal to show band tour dates and add link to buy tickets.
+* Add portrait images to carousel so on small device screens the images cover the full screen.
 
 ## Technologies Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) markup language used for the site.
@@ -117,7 +118,7 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 * The second error message was 404 which directs me to an image located within my images. At present I haven’t been able to resolve the issue.
 * Upon reviewing the site on multiple devices, I noticed the load time for some of the images took longer than I had anticipated. This was due to the size of the image files being 2mb plus, the optimal size for quick smooth loading is generally 80Kb-100Kb as stated on [google]( https://www.google.com/search?hl=en&ei=_u9yXP7zH4HSxgOsoK3QBg&q=What+is+the+best+file+size+for+web+images%3F&oq=What+is+the+best+file+size+for+web+images%3F&gs_l=psy-ab.3..0i22i30.254114.254114..255224...0.0..0.71.71.1......0....2j1..gws-wiz.......0i71.Ew8VTGdJczY).
 * I had asked a family member to review the site and they had not noticed the band detail collapse and album music collapse. I did the same with my mentor and Guido who also hadn’t noticed the collapse and suggested that I remove it.
-* 
+* After reviewing the site on multiple devices, I noticed that the carousel I used for the home page is responsive and scales with different size screens. The carousel however shrinks and ends up sitting at the top of device covering only a 1/3 of the screen. 
 
 ## Deployment
 The project was developed in Cloud9 and my website was deployed use GitHub and can be found 
