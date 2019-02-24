@@ -100,9 +100,18 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 * Finally, the footer which contains links to the band’s social media.
 
 ## Features still to implement
-
+* Add call to action above navbar.
+* Add missing audio files for the album section, currently only 2 of the audio files are linked to the correct music. 
+* Update the view tickets modal to show band tour dates and add link to buy tickets.
 
 ## Technologies Used
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) markup language used for the site.
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) used for styling and formatting of site.
+* [Bootstrap](https://getbootstrap.com) framework & components used for website layout.
+* [Font Awesome icons](https://fontawesome.com/) used for social media icons.
+* [Google Fonts](https://fonts.google.com) provides a selection of fonts.
+* [JQuery](https://jquery.com) & [Popper.js](https://popper.js.org/) required for Bootstrap functionality.
+
 --------------------------------------------------
 ## Resources
 websites used
