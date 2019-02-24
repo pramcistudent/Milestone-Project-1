@@ -126,7 +126,17 @@ The album songs listed were taken from [The Top Tens](https://www.thetoptens.com
 For the contact us sign up form and private hire form I took inspiration from the [Monkees official site]( https://www.monkees.com/). 
 
 #### Media
-
+A large inventory of media files were provided by the Code Institute through [GitHub Repo](https://github.com/Code-Institute-Org/project-assets). Additional assets were sourced from [BBC](https://www.google.com/imgres?imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Fimages%2Fic%2F960x540%2Fp01bqr6v.jpg&imgrefurl=https%3A%2F%2Fwww.bbc.co.uk%2Fmusic%2Fartists%2Fb8549efe-f4fd-4dc0-8ef1-226e9c400233&docid=wJyJwq76ceqXTM&tbnid=dFhrHIaym8MDNM%3A&vet=10ahUKEwjBo7jp6NTgAhVL8aYKHTGpAhcQMwiiASgeMB4..i&w=960&h=540&hl=en&bih=625&biw=1366&q=the%20monkees&ved=0ahUKEwjBo7jp6NTgAhVL8aYKHTGpAhcQMwiiASgeMB4&iact=mrc&uact=8) website and [Blog]( https://www.monkeeslivealmanac.com/blog/vintage-monkees-drum-set) website. 
 
 #### Acknowledgements
+The website layout was taken from Code Institute's [Bootstrap Lesson](https://github.com/Code-Institute-Solutions/BootstrapingYourNextBigIdea/tree/master/04-BeyondBootstrap/04-cleaning_up_our_content).
+The Navbar was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
+The home page carousel was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp).
+The band tour dates were taken from [W3schools](https://www.w3schools.com/booTsTrap/tryit.asp?filename=trybs_theme_band_contact&stacked=h).
+The form and modal sign were taken from Code Institute's [Resumé Lesson](https://github.com/Code-Institute-Solutions/UserCentricFrontendDevelopment-Resume/tree/master/17-adding_the_contact_form)
+The smooth scroll was taken from [W3schools](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+The Navbar scrollspy was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_scrollspy.asp)
+The color theme was taken from the Monkees official site [Monkees official site]( https://www.monkees.com/)
 
+
+*All images including the Website are for educational use only*
