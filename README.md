@@ -15,7 +15,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 
 ## The Five Planes
 
-#### The Strategy Plane
+### The Strategy Plane
 
 **Site Objectives**
 * A website targeted to the band’s fans and potential fans.
@@ -29,7 +29,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 * As a potential fan I would like to be able to visit the site to find out more information about the band and the type of music they play.
 * As a fan or potential fan of the band I would like to be able to visit the site and contact the band to find out the bands availability to perform at private events.
 
-#### The Scope Plane
+### The Scope Plane
 
 **Functional Requirements** 
 * The site will need a navigation bar for quick and easy access around the whole site.
@@ -41,7 +41,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 * Media and audio music files from the band's playlist.
 * Information about the band and their services.
 
-#### The Structure Plane
+### The Structure Plane
 
 **Interaction Design** 
 * Navigation bar links to each section of the site for quick and easy user access.
@@ -52,9 +52,9 @@ And for fans and potential fans to contact the band to make enquiries about thei
 * Single scroll website from home page through to the band, their music, their tour dates, and contact information.
 * Possibly add a news article section for latest news from the band.
 
-#### The Skeleton Plane
+### The Skeleton Plane
 
-##### Wireframes & Features
+**Wireframes & Features**
 I originally created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
 So, I choose to switch to a simpler form and used PowerPoint to create and style my wireframes.
 
@@ -81,14 +81,13 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 ![Footer](/wireframes/footer.jpg/)
 * Band social links.
 
-#### The Surface Plane
+### The Surface Plane
 
 **Visual Design**
 * Bright fun colours to be used across the site, yellow as the base colour for the site and google fonts "Acme". 
 * Colour theme to be kept simple no more than 3-4 colours to be used across all sections.
 * Full width home page image with call to action above navbar.
 * Fixed background image taken from the bands image library.
-
 
 ## Features
 * The website is a single scrolling page split into five sections. The first section is the Homepage which contains a full screen image and rotates to show 2 images of the band.
