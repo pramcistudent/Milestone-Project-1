@@ -59,32 +59,27 @@ I originally created my wireframes in Balsamiq however I found this to be a litt
 So, I choose to switch to a simpler form and used PowerPoint to create and style my wireframes.
 
 
-* ![Home](/wireframes/home.jpg/)
-The home page should have a navigation bar for quick easy access to any part of the site.
-Main body of the home page to have a full width image possibly a carousel with multi slide images.
+![Home](/wireframes/home.jpg/)
+* The home page should have a navigation bar for quick easy access to any part of the site.
+* Main body of the home page to have a full width image possibly a carousel with multi slide images.
 
-###### The Band
+![Band](/wireframes/band.jpg/)
+* Images of each band member with some additional information their name and the instruments they play.
+* Additional group images of the band.
 
-Images of each band member with some additional information their name and the instruments they play.
-Additional group images of the band.
+![Music](/wireframes/music.jpg/)
+* Embedded band music video centre of page.
+* Band album images with audio play list.
 
-###### Music
+![Tour](/wireframes/tour.jpg/)
+* Images of city's were the band are scheduled to play concert.
 
-Embedded band music video centre of page.
-Band album images with audio play list.
+![Contact](/wireframes/contact.jpg/)
+* Sign up section to the band’s newsletter.
+* Form for the user to contact the band to enquire about private hire.
 
-###### Tour
-
-Images of city's were the band are scheduled to play concert.
-
-###### Contact Us
-
-Sign up section to band news letter 
-available for private hire
-
-###### Footer
-
-Band social links.
+![Footer](/wireframes/footer.jpg/)
+* Band social links.
 
 #### The Surface Plane
 
