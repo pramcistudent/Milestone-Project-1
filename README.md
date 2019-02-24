@@ -112,19 +112,21 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 * [Google Fonts](https://fonts.google.com) provides a selection of fonts.
 * [JQuery](https://jquery.com) & [Popper.js](https://popper.js.org/) required for Bootstrap functionality.
 
---------------------------------------------------
-## Resources
-websites used
---------------------------------------------------
 ## Testing
 Issues encountered
---------------------------------------------------
+
+
 ## Deployment
---------------------------------------------------
+The project was developed in Cloud9 and my website was deployed use GitHub and can be found here [https://pramcistudent.github.io/Milestone-Project-1](https://pramcistudent.github.io/Milestone-Project-1/)
+
 ## Credits
---------------------------------------------------
-## Content
---------------------------------------------------
-## Media
---------------------------------------------------
-## Acknowledgements
+#### Content
+Information regarding each band member was taking from [AllMusic](https://www.allmusic.com/artist/the-monkees-mn0000478603/biography). I assigned each member a specific roll within the band i.e. vocals, drum, bass, guitar using the bands video of I'm A Believer [YouTube 1:07](https://www.youtube.com/watch?v=gv2MLlZKarM).
+The album songs listed were taken from [The Top Tens](https://www.thetoptens.com/best-monkees-songs/).
+For the contact us sign up form and private hire form I took inspiration from the [Monkees official site]( https://www.monkees.com/). 
+
+#### Media
+
+
+#### Acknowledgements
+
