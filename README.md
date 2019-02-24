@@ -116,7 +116,8 @@ Issues encountered
 
 
 ## Deployment
-The project was developed in Cloud9 and my website was deployed use GitHub and can be found here [https://pramcistudent.github.io/Milestone-Project-1](https://pramcistudent.github.io/Milestone-Project-1/)
+The project was developed in Cloud9 and my website was deployed use GitHub and can be found 
+here [https://pramcistudent.github.io/Milestone-Project-1](https://pramcistudent.github.io/Milestone-Project-1/)
 
 ## Credits
 #### Content
