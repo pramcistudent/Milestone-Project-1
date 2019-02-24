@@ -90,15 +90,18 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 * Fixed background image taken from the bands image library.
 
 
---------------------------------------------------
-## Website Layout
---------------------------------------------------
-## Website Styling
---------------------------------------------------
-## Existing features
---------------------------------------------------
+## Features
+*The website is a single scrolling page split into five sections. The first section is the Homepage which contains a full screen image and rotates to show 2 images of the band.
+*The Navigation bar is located at the top of the screen and can be used to quickly link through to any part of the site.
+*The second section is “Meet the Band” which contains individual images of each band member, a brief bio of each band members name, date of birth and roles they play within the band. Along with some additional images of the band.
+*The third section is music from the band which has a video of the band performing one of their famous songs. Album cover images along with some audio songs.
+*Following this is the tour section which contains images of city’s where the band will be playing their concerts.  
+*And a section to sign up to the bands newsletter and a form to contact the band to make enquiries about their availability to perform at private events.
+*Finally, the footer which contains links to the band’s social media.
+
 ## Features still to implement
---------------------------------------------------
+
+
 ## Technologies Used
 --------------------------------------------------
 ## Resources
