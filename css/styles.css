@@ -341,66 +341,28 @@ audio {
 
 /*--------------------------------------------------media queries styles-----*/
 
-@media screen and (min-width: 320px) {
+@media only screen and (min-width: 320px) {
   .music-container,
   .contact-container,
   .music-container-album {
 		background: url('../images/drum1.jpg') no-repeat center center fixed;
 	}
-  .person {
-    height: 150px;
-    width: 165px;
-    margin-top: 5px;
-  }
   .heading-uppercase {
-    text-align: center;
-    font-family: "Acme", sans-serif;
-    font-weight: 900;
     font-size: 35px;
-    color: #ff0000;
-    padding: 65px 0 15px;
-    margin: 0;
-    -webkit-text-stroke: .01px #f7fb67;
   }
   .name {
-    text-align: center;
-    font-family: "Acme", sans-serif;
-    font-weight: 900;
     font-size: 25px;
-    color: #ff0000;
-    padding: 0;
-    margin: 0;
-    -webkit-text-stroke: .01px #f7fb67;
   }
   .bandinfo {
-    text-align: center;
-    font-family: "Acme", sans-serif;
-    font-weight: 600;
     font-size: 15px;
-    color: #ff0000;
-    padding: 0;
-    margin: 0;
-    -webkit-text-stroke: .01px #f7fb67;
   }
   .heading-uppercase1 {
-    text-align: center;
-    font-family: "Acme", sans-serif;
-    font-weight: 900;
     font-size: 23px;
-    color: #ff0000;
-    padding: 0;
-    margin: 0;
-    -webkit-text-stroke: .01px #f7fb67;
   }
   .contact-us {
-    text-align: center;
-    font-family: "Acme", sans-serif;
-    font-weight: 900;
     font-size: 14px;
-    color: #ff0000;
     padding-bottom: 10px;
     margin: 10px 0 0;
-    -webkit-text-stroke: .01px #f7fb67;
   }
   .footer {
     font-size: 3rem;
@@ -413,25 +375,17 @@ audio {
     margin: 1rem;
   }
 }
-@media screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
   .music-container,
   .contact-container,
   .music-container-album {
 		background: url('../images/drum1.jpg') no-repeat center center fixed;
 	}
-	.col-sm-6 {
-    width: 45%;
-	}  
 	.heading-uppercase {
     padding: 80px 0 30px;
   }
 	.heading-uppercase1 {
     font-size: 25px;
-  }
-  .person {
-    margin: 40px;
-    max-width: 70%;
-    height: 200px;
   }
   .contact-us {
     font-size: 16px;
@@ -440,7 +394,7 @@ audio {
     width: 100%;
   }
 }
-@media screen and (min-width: 992px) {
+@media only screen and (min-width: 992px) {
 	.music-container,
 	.contact-container,
 	.music-container-album {
