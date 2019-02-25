@@ -3,15 +3,15 @@
 # Code Institute Milestone Project
 
 The goal is to demonstrate the technologies that I have learnt through the User Centric Module provided by the Code Institute.
-The challenge was to create a frontend only website for a 1960’s Rock Band called, The Monkees. I have used HTML, CSS, & Bootstrap to show my ability, skill and understanding of technologies learned so far.
-The project was to create a website targeted to fans who would come to the site to see and hear clips from the band’s library, for fans to stay up to date with new content and events as they become available whilst also attracting a new fan base. And to promote the band’s availability to perform at special events.
+The challenge was to create a (frontend only) website for a 1960’s Rock Band called, The Monkees. I have used HTML, CSS, & Bootstrap to show my abilities, skills and understanding of technologies I have learned so far.
+The project was to create a website targeted to fans who would come to the site to see and hear clips from the band’s library. For fans to keep up to date with new content and events as they become available. Whilst also attracting a new fan base, Aad to promote the band’s availability to perform at special events.
 
 ## UX
 The website was designed and created to be focused towards the band’s fan base and potential fans. 
 I have used bright fun colours throughout the site to create typography and to visually appeal to the user.
 The colour, style and theme were created to reflect the persona of the band as found on the bands official site [The Monkees](https://www.monkees.com/).
-The business requirements are to create a website that is easy to use and allows for sign ups. 
-And for fans and potential fans to contact the band to make enquiries about their availability to perform at special events.
+The business requirements is to create a website that is easy to use and allows for sign ups. 
+Also for fans and potential fans to contact the band to make enquiries about their availability to perform at special events.
 
 ## The Five Planes
 
@@ -37,7 +37,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 * A sign up and a contact the band form.
 
 **Content Requirements**
-* Images of the band and band members.
+* Images of the band and iof each band members.
 * Media and audio music files from the band's playlist.
 * Information about the band and their services.
 
@@ -46,7 +46,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 **Interaction Design** 
 * Navigation bar links to each section of the site for quick and easy user access.
 * Easy to read font and colour theme across all sections.
-* Possibly add call to action above navbar to inform user that the band can perform at private events.
+* Possibly add call to action above navigation bar to inform user that the band can perform at private events.
 
 **Information Architecture**
 * Single scroll website from home page through to the band, their music, their tour dates, and contact information.
@@ -55,7 +55,7 @@ And for fans and potential fans to contact the band to make enquiries about thei
 ### The Skeleton Plane
 
 **Wireframes & Features**
-I originally created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process as I wanted to show more detail for my first project.
+*I originally created my wireframes in Balsamiq however I found this to be a little restrictive in terms of the design process, as I wanted to show more detail for my first project.
 So, I choose to switch to a simpler form and used PowerPoint to create and style my wireframes.
 
 
@@ -92,7 +92,7 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 ## Features
 * The website is a single scrolling page split into five sections. The first section is the Homepage which contains a full screen image and rotates to show 2 images of the band.
 * The Navigation bar is located at the top of the screen and can be used to quickly link through to any part of the site.
-* The second section is “Meet the Band” which contains individual images of each band member, a brief bio of each band members name, date of birth and roles they play within the band. Along with some additional images of the band.
+* The second section is “Meet the Band” which contains individual images of each band member. A brief bio of each band members name, date of birth and roles they play within the band. Along with some additional images of the band.
 * The third section is music from the band which has a video of the band performing one of their famous songs. Album cover images along with some audio songs.
 * Following this is the tour section which contains images of city’s where the band will be playing their concerts.  
 * And a section to sign up to the bands newsletter and a form to contact the band to make enquiries about their availability to perform at private events.
@@ -114,14 +114,14 @@ So, I choose to switch to a simpler form and used PowerPoint to create and style
 
 ## Testing
 * I started by validating my HTML and CSS code using the W3C validator. This highlighted a typo I had missed were I had put a backspace on a break tag. 
-* Upon reviewing the site in google chrome dev tools I discovered a 400 error which directed me to my CSS file on row 1. The error message was due to a typo within @import fonts which was corrected.
+* Upon reviewing the site in google chrome (dev tools) I discovered a 400 error which directed me to my CSS file on row 1. The error message was due to a typo within @import fonts which was corrected.
 * The second error message was 404 which directs me to an image located within my images. At present I haven’t been able to resolve the issue.
 * Upon reviewing the site on multiple devices, I noticed the load time for some of the images took longer than I had anticipated. This was due to the size of the image files being 2mb plus, the optimal size for quick smooth loading is generally 80Kb-100Kb as stated on [google]( https://www.google.com/search?hl=en&ei=_u9yXP7zH4HSxgOsoK3QBg&q=What+is+the+best+file+size+for+web+images%3F&oq=What+is+the+best+file+size+for+web+images%3F&gs_l=psy-ab.3..0i22i30.254114.254114..255224...0.0..0.71.71.1......0....2j1..gws-wiz.......0i71.Ew8VTGdJczY).
-* I had asked a family member to review the site and they had not noticed the band detail collapse and album music collapse. I did the same with my mentor and Guido who also hadn’t noticed the collapse and suggested that I remove it.
-* After reviewing the site on multiple devices, I noticed that the carousel I used for the home page is responsive and scales with different size screens. The carousel however shrinks and ends up sitting at the top of device covering only a 1/3 of the screen. 
+* I had asked a family member to review the site and they had not noticed the collapse on the band and album section. My mentor Guido who also reviewed the site for me, hadn’t noticed the collapse and suggested that I remove it as it wasn’t an obvious user interaction.
+* After reviewing the site on multiple devices, I noticed that the carousel I used for the home page is responsive and scales with different size screens. The carousel however shrinks and ends up sitting at the top of smaller device covering only a 1/3 of the screen. Which I did not find visually appealing, so my mentor suggested I remove the carousel from smaller devices and research alternative solution.
 
 ## Deployment
-The project was developed in Cloud9 and my website was deployed use GitHub and can be found 
+The project was developed in Cloud9 and my website was deployed using GitHub and can be found 
 here [https://pramcistudent.github.io/Milestone-Project-1](https://pramcistudent.github.io/Milestone-Project-1/)
 
 ## Credits
@@ -135,7 +135,7 @@ A large inventory of media files were provided by the Code Institute through [Gi
 
 #### Acknowledgements
 The website layout was taken from Code Institute's [Bootstrap Lesson](https://github.com/Code-Institute-Solutions/BootstrapingYourNextBigIdea/tree/master/04-BeyondBootstrap/04-cleaning_up_our_content).
-The Navbar was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
+The Navigation bar was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
 The home page carousel was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_carousel.asp).
 The band tour dates were taken from [W3schools](https://www.w3schools.com/booTsTrap/tryit.asp?filename=trybs_theme_band_contact&stacked=h).
 The form and modal sign were taken from Code Institute's [Resumé Lesson](https://github.com/Code-Institute-Solutions/UserCentricFrontendDevelopment-Resume/tree/master/17-adding_the_contact_form)
