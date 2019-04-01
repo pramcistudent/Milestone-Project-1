@@ -4,14 +4,14 @@
 
 The goal is to demonstrate the technologies that I have learnt through the User Centric Module provided by the Code Institute.
 The challenge was to create a (frontend only) website for a 1960’s Rock Band called, The Monkees. I have used HTML, CSS, & Bootstrap to show my abilities, skills and understanding of technologies I have learned so far.
-The project was to create a website targeted to fans who would come to the site to see and hear clips from the band’s library. For fans to keep up to date with new content and events as they become available. Whilst also attracting a new fan base, Aad to promote the band’s availability to perform at special events.
+The project was to create a website targeted to fans who would come to the site to see and hear clips from the band’s library. For fans to keep up to date with new content and events as they become available. Whilst also attracting a new fan base, and to promote the band’s availability to perform at special events.
 
 ## UX
 The website was designed and created to be focused towards the band’s fan base and potential fans. 
 I have used bright fun colours throughout the site to create typography and to visually appeal to the user.
 The colour, style and theme were created to reflect the persona of the band as found on the bands official site [The Monkees](https://www.monkees.com/).
-The business requirements is to create a website that is easy to use and allows for sign ups. 
-Also for fans and potential fans to contact the band to make enquiries about their availability to perform at special events.
+The business requirement is to create a website that is easy to use and allows for sign ups. 
+Also, for fans and potential fans to contact the band to make enquiries about their availability to perform at special events.
 
 ## The Five Planes
 
@@ -37,7 +37,7 @@ Also for fans and potential fans to contact the band to make enquiries about the
 * A sign up and a contact the band form.
 
 **Content Requirements**
-* Images of the band and iof each band members.
+* Images of the band and of each band members.
 * Media and audio music files from the band's playlist.
 * Information about the band and their services.
 
@@ -141,7 +141,7 @@ The band tour dates were taken from [W3schools](https://www.w3schools.com/booTsT
 The form and modal sign were taken from Code Institute's [Resumé Lesson](https://github.com/Code-Institute-Solutions/UserCentricFrontendDevelopment-Resume/tree/master/17-adding_the_contact_form)
 The smooth scroll was taken from [W3schools](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
 The Navbar scrollspy was taken from [W3schools](https://www.w3schools.com/bootstrap/bootstrap_scrollspy.asp)
-The color theme was taken from the Monkees official site [Monkees official site]( https://www.monkees.com/)
+The colour theme was taken from the Monkees official site [Monkees official site]( https://www.monkees.com/)
 
 Special thanks go to my mentor Guido Cecilio who helped me to resolve a specific issue I came across on the carousel.
 The cause of the issue was due to using an older version of the BootstrapCDN file which Guido was kind enough to show me how identify the issue for future reference so I could investigate and resolve.
